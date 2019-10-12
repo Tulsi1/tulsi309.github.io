@@ -1,0 +1,150 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+
+	.bg{background-image: url(image3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	
+
+}
+.nav{
+	width: 200px;
+	height: 100%;
+	position: absolute;
+	top: 20%;
+	left: 3%;
+}
+.nav a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: serif;
+	font-weight: bold;
+	
+	display:inline-block;
+	background-color: #98ff98;
+	color: black;
+	text-align: center;
+	line-height: 90px;
+	height: 90px;
+	margin: 5px 0;
+	float: left;
+	transition: 300ms;
+}
+ .nav a:hover{
+	background-color: #4b0082;
+	color: white;
+	width: 100%;
+}
+.h{
+	width: 95%;
+}
+.ab{
+	width: 90%;
+}
+.c{
+	width: 85%;
+}
+.mp{
+	width: 80%;
+}
+h1{
+	font-family: comic sans ms;
+color: white;
+position: absolute;
+top:20%;
+right: 15%;
+font-size: 50px;
+text-decoration: italic;
+background-color: #00ccff;
+text-shadow: 3px 3px #000000;
+}
+.aboutme1
+{
+	position: absolute;
+font-family: fantasy;
+font-size: 30px;
+font-weight: bold;
+right: 0%;
+top: 10%;
+width: 900px;
+min-height: 500px;
+height: auto;
+color: white;
+}
+.cm{
+	position: absolute;
+	right: 20%;
+	top: 32%;
+	height: auto;
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	
+}
+.mp1{
+	position: absolute;
+	left: 45%;
+	top: 25%;
+	height: auto;
+	
+	font-weight: bold;
+	font-size: 35px;
+	color: red;
+	font-family: aladin;
+}
+.cme{
+	background-image: url(contact.gif);
+	background-color: #800020;
+	background-repeat: no-repeat;
+	background-position: 30% 10%;
+	
+	
+
+}
+
+.mypro{
+	background-image: url(image5.png);
+	background-repeat: repeat-y;
+	background-position: 30% 30%;
+	background-color: #7EF9FF; 
+}
+.bg2{
+	background-image: url(myself.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: #7f461b;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
